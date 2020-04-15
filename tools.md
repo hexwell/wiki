@@ -2,10 +2,10 @@
 
 ## Editors & IDEs
 
-Text editor: **Sublime Text 3**
-Python: **JetBrains PyCharm** / **Sublime Text 3**
-JVM: **JetBrains IntelliJ IDEA**
-Android: **JetBrains/Google Android Studio**
+Text editor: **Sublime Text 3** </br>
+Python: **JetBrains PyCharm** / **Sublime Text 3** </br>
+JVM: **JetBrains IntelliJ IDEA** </br>
+Android: **JetBrains/Google Android Studio** </br>
 
 ## Languages
 
@@ -55,6 +55,8 @@ Niche:
 - [**port scanner**](https://pentest-tools.com/network-vulnerability-scanning/tcp-port-scanner-online-nmap) (port scanning)
 - [**IP stresser**](https://www.ipstresser.com/) (DDoS)
 
+</br>
+
 - **mimikatz** (Windows exploitation)
 
 #### Reversing
@@ -68,6 +70,8 @@ Niche:
 
 - **libnfc_crypto1_crack** (hardnested attack using ACR122U or pn532)
 - **mfkey32v2** (key recovery from sniffed trace)
+
+</br>
 
 - **rtl_433** (433 MHz and more protocol decoder)
 
