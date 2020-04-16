@@ -9,6 +9,7 @@
     - [Power meter](electronics/projects/power_meter.md)
 
   - [Resources](electronics/resources)
+    - [Impedance Matching](electronics/resources/impedance_matching.md)
     - [Measuring inductance](electronics/resources/measuring_inductance.md)
 
   - [Shopping](electronics/shopping)
