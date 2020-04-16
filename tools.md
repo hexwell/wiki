@@ -9,18 +9,24 @@ Android: **JetBrains/Google Android Studio** </br>
 
 ## Languages
 
+Languages in these section are sorted by marketability for marketable languages and by my willingness to learn them in the close future for niche languages. If the reasons for using or learning a language are not obvious they are explicited in parenthesis.
+
 ### Used
 
 Marketable:
 
-- **Java** (OOP solidity)
-- **Python** (extremely fast prototyping and flexibility)
-- **C** (old, standard, simple, embedded)
-- **Kotlin** (Java syntactic sugar)
+- **JavaScript**
+- **Java**
+- **SQL**
+- **Python**
+- **C**
+- **Assembly**
+- **Kotlin** (Java but fun to use)
 
 Niche:
 
-- **Prolog** (logic, maybe useful in some hard logic problem solving (like scheduling or constraint problems))
+- **Prolog** (maybe useful in some hard logic problem solving (like scheduling or constraint problems))
+- **Brainfuck** (hobby)
 
 
 ### Appealing
@@ -50,39 +56,39 @@ Niche:
 
 ### Software
 
-- [**dnsdumpster**](https://dnsdumpster.com/) (dns recon)
-- [**Domaintools WHOIS**](http://whois.domaintools.com/) (whois)
-- [**port scanner**](https://pentest-tools.com/network-vulnerability-scanning/tcp-port-scanner-online-nmap) (port scanning)
-- [**IP stresser**](https://www.ipstresser.com/) (DDoS)
+- [**dnsdumpster**](https://dnsdumpster.com/) - dns recon
+- [**Domaintools WHOIS**](http://whois.domaintools.com/) - WHOIS
+- [**port scanner**](https://pentest-tools.com/network-vulnerability-scanning/tcp-port-scanner-online-nmap) - port scanning
+- [**IP stresser**](https://www.ipstresser.com/) - DDoS
 
 </br>
 
-- **mimikatz** (Windows exploitation)
+- **mimikatz** - Windows exploitation
 
 #### Reversing
 
-- **Ghidra** (reverse engineering suite)
-- **pwntools** (python reverse engineering lib)
-- **Radare2** (reverse engineering suite)
-- **Angr** (binary analysis)
+- **Ghidra** - reverse engineering suite
+- **pwntools** - python reverse engineering lib
+- **Radare2** - reverse engineering suite
+- **Angr** - binary analysis
 
 #### NFC
 
-- **libnfc_crypto1_crack** (hardnested attack using ACR122U or pn532)
-- **mfkey32v2** (key recovery from sniffed trace)
+- **libnfc_crypto1_crack** - hardnested attack using ACR122U or pn532
+- **mfkey32v2** - key recovery from sniffed trace
 
 </br>
 
-- **rtl_433** (433 MHz and more protocol decoder)
+- **rtl_433** - 433 MHz and more protocol decoder-
 
 ### Hardware
 
 #### NFC
 
-- **Scribe** (NFC development board)
-- **ACR122U** (NFC USB interface)
-- **pn532** (NFC UART interface)
-- **Proxmark3** (NFC swiss knife)
-- **ChameleonMini** (NFC emulator)
+- **Scribe** - NFC development board
+- **ACR122U** - NFC USB interface
+- **pn532** - NFC UART interface
+- **Proxmark3** - NFC swiss knife
+- **ChameleonMini** - NFC emulator
 
-- **rtl-sdr** (27 MHz - 1800 MHz receiver)
+- **rtl-sdr** - 27 MHz - 1800 MHz receiver
