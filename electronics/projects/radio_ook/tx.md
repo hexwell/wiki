@@ -14,10 +14,33 @@ Considerations:
 
 - When the frequency is determined precisely the title of this and the receiver posts should be updated to match it.
 
-- This and the receiver posts should be fitted in the indexing scheme of the final container of this blog together. Solutions might be: keeping the posts separate and adding to the indexing system index exclusion list and overrides, grouping the content of the posts together in one post
+## Frequency
 
-</br>
+After having spent a long time thinking about this I came to the conclusion that I want a **30 Mhz** frequence if possible.
+This is so it will be possible to see this transmitter with an RTL-SDR.
+The feasibility of this option should be checked with the crystal considerations below.
 
-This is a nice design but it makes use of a crystal and I currently don't understand it fully:
+## Ten Minute Transmitter
+
+This is a nice design currently under evaluation.
 
 [ten minute trasmitter](https://makerf.com/posts/ten-minute-transmitter)
+
+This is what I understand about it.
+
+- It's an oscillator, so it's a CW transmitter de facto
+- Oscillators are made made of an amplifier a filtered feedback (a filter that provides feedback to the amplifier)
+- The amplifier in this case is a single transistor amplifier
+- The transistor needs to be biased in order to properly amplify the signal
+- A transistor bias provides some middle voltage that can be altered positively or negatively by a signal (the feedback in this case)
+- The filter in this case is just the crystal
+- Crystals should behave like an LC tuned circuit with a series capacitor (as they do not conduct DC)
+- C1 is for power supply stability
+- L1 is an RF Choke, although I'm not fully convinced it's it's only purpose
+- R1 is for transistor bias and to make it start conducting at power up
+- C3 should be for impedance matching with the antenna (?)
+- C2 is to not fry the transistor when the key is released, as it charges up to the supply voltage and stops the oscillator by making the voltage across the transistor (V collector-emitter) = 0
+
+So the doubts that I have yet to dispel are:
+- Is C3 just impedance matching if it's impedance matching at all
+- How does the crystal work and can I get one for 30 MHz?
