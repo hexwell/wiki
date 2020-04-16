@@ -24,7 +24,7 @@ The feasibility of this option should be checked with the crystal considerations
 
 This is a nice design currently under evaluation.
 
-[ten minute trasmitter](https://makerf.com/posts/ten-minute-transmitter)
+[ten minute transmitter](https://makerf.com/posts/ten-minute-transmitter)
 
 This is what I understand about it.
 
@@ -42,10 +42,11 @@ This is what I understand about it.
 - C2 is to not fry the transistor when the key is released, as it charges up to the supply voltage and stops the oscillator by making the voltage across the transistor (V collector-emitter) = 0
 
 So the doubts that I have yet to dispel are:
-- Is C3 just impedance matching if it's impedance matching at all
 - How does the crystal work and can I get one for 30 MHz?
+- Can the crystal be replaced with an LC tuned circuit (optionally with a DC blocking capacitor)?
+- Is C3 just impedance matching if it's impedance matching at all
 
 </br>
 
-Possible nice explaination:
+Possible nice explanation:
 https://www.electrical4u.com/crystal-oscillator/
