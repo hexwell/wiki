@@ -44,3 +44,8 @@ This is what I understand about it.
 So the doubts that I have yet to dispel are:
 - Is C3 just impedance matching if it's impedance matching at all
 - How does the crystal work and can I get one for 30 MHz?
+
+</br>
+
+Possible nice explaination:
+https://www.electrical4u.com/crystal-oscillator/
