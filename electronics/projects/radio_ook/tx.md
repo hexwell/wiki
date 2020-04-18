@@ -45,6 +45,8 @@ So the doubts that I have yet to dispel are:
 - How does the crystal work and can I get one for 30 MHz?
 - Can the crystal be replaced with an LC tuned circuit (optionally with a DC blocking capacitor)?
 - Is C3 just impedance matching if it's impedance matching at all
+- Some loading resistor between transistor emitter and keyer might be useful. This would probably make the transistor heat up less and probably would make the use a non metal-can/heatsinked transistor feasible.
+- The biasing resistor may as well be a voltage divider probably. This needs to be investigated
 
 </br>
 
