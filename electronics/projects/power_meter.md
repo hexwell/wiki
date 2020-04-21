@@ -1,18 +1,41 @@
 # Power meter
 
-This project consist of a current transform connected to an arduino via a shunt resistor. The transformer is attached to one of the master live wire in my house and the arduino senses the voltage on the resistor in order to calculate the current power usage.
+This project consists of a current transform connected to an Arduino via a burden resistor. The transformer is attached to one of the master live wires in my house and the Arduino senses the voltage on the resistor in order to calculate the current power usage.
 
-</br>
+## Parts list
+- Arduino Pro Micro
+- NRF24L01+PA+LNA (with RFAXIS chip)
+- SCT-013-000V
+- 3.3 V Regulator
+- 2 x 100 kΩ resistors
+- 3 x 10 μF
+- Female 3.5 mm audio jack
+- Female USB B port
 
-Considerations:
-- For this project I could use an oscilloscope to better see the waveform of the current picked up by the transformer.
-- In order to calculate correctly the power usage I must know the power factor of the load.
-- Measuring the voltage as well might help with the accuracy of the measurement as well. This may be related to the power factor but it requires further investigation on my part.
+## Design
 
-## Questioning the whole measurement system
+### Current sensor
 
-Measuring power using just a current transformer is probably not really feasible with great accuracy without a lot of effort. Before putting this kind of effort in I'd like to evaluate other possible options such as using the power measurement of the power meter (that irony of sorts is name OpenMeter) directly via it's IR port (but that would require a lot of work too since the protocol needs to be reverse engineered).
+The current sensor needs a bias voltage in order to be in the range of the Arduino ADC during negative cycles, so a voltage divider with two 100 kΩ resistors and a 10 μF capacitor to GND is added. The sensor should be placed between the voltage divider and the Arduino pin.
 
-## Also see
+### NRF24L01 power supply
 
-https://create.arduino.cc/projecthub/Mr-Joe/smart-energy-monitor-based-on-arduino-05f042
+The NRF24L01 operates on 3.3 V and it needs a power supply. A regulator is used to obtain the 3.3 V and a 10 μF ceramic capacitor (more durable) should be placed between the power lines. Also the same should be done on the power lines of the Arduino.
+
+### Energy efficiency
+
+The Arduino LEDs can be desoldered to same some mA.
+
+### Connectors
+
+- Female 3.5 mm audio jack input for SCT current transform
+- USB B port for power and programming (passthrough to Arduino USB)
+- SMA female connector for antenna
+
+### Notes
+
+- In order to get the real value the sensor should be read RMS, as different loads can have different current waveforms.
+
+# Questioning the whole thing
+
+Measuring power using just a current transformer is probably not really precise. Other possible options are using the power measurement of the power meter directly via it's IR port, but that would require a lot of work since the protocol needs to be reverse engineered. Irony of sorts, Italy's energy company's meter is named OpenMeter.
