@@ -11,6 +11,7 @@
   - [Resources](electronics/resources)
     - [Impedance Matching](electronics/resources/impedance_matching.md)
     - [Measuring inductance](electronics/resources/measuring_inductance.md)
+    - [How to unbrick an Arduino Pro Micro](electronics/resources/pro_micro_brick.md)
 
   - [Shopping](electronics/shopping)
     - [Labeler](electronics/shopping/labeler.md)
