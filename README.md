@@ -39,5 +39,6 @@
     - [RTL-SDR Software](radio/rtl-sdr/software.md)
 
 
+- [In defense of paper](paper.md)
 - [Repository Naming Convention](repository_naming_convention.md)
 - [Tools](tools.md)
