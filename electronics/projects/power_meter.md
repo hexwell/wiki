@@ -11,6 +11,7 @@ This project consists of a current transform connected to an Arduino via a burde
 - 3 x 10 μF
 - Female 3.5 mm audio jack
 - Female USB B port
+- Perf board
 
 ## Design
 
