@@ -5,9 +5,9 @@ This project consists of a current transform connected to an Arduino via a burde
 ## Parts list
 - ~~Arduino Pro Micro~~
 - ~~NRF24L01+PA+LNA (with RFAXIS chip)~~
+- ~~2 x 100 kΩ resistors~~
 - SCT-013-000V
 - 3.3 V Regulator
-- 2 x 100 kΩ resistors
 - 3 x 10 μF capacitors (ceramic, more durable)
 - Female 3.5 mm audio jack
 - Female USB B port
@@ -16,7 +16,7 @@ This project consists of a current transform connected to an Arduino via a burde
 
 ## TODO
 
-- Desolder Arduino headers and solder below board to be able to insert into perf board socket
+- Test 102 resistor left of the LED on the Arduino
 
 ## Design
 
