@@ -16,7 +16,8 @@ This project consists of a current transform connected to an Arduino via a burde
 
 ## TODO
 
-- Test 102 resistor left of the LED on the Arduino
+- Test 102 resistor left of the LED on the Arduino (even tho that is the resistor for the LED so it doesn't matter. Test it just to check your soldering skills. Also test the traces to the LED using the [schematic](http://cdn.sparkfun.com/datasheets/Dev/Arduino/Boards/Pro_Micro_v13b.pdf)
+- Test for VCC voltage and J1 (left of USB connector). It should 5V and the jumper shorted. 
 
 ## Design
 
