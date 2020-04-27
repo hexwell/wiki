@@ -35,7 +35,7 @@ Marketable:
 
 - **C++** (powerful, flexible, extremely marketable)
 - **Haskell** (fun, functional, popular)
-- **Rust** (modern take on low level stuff, becoming popular)
+- **Rust** (modern take on low level stuff, becoming popular) (use [rust-your-own-lisp](https://dev.to/deciduously/rust-your-own-lisp-50an) for starting)
 - **Scala** (functional, JVM)
 
 Niche:
