@@ -1,14 +1,14 @@
 # Power meter
 
-This project consists of a current transform connected to an Arduino via a burden resistor. The transformer is attached to one of the master live wires in my house and the Arduino senses the voltage on the resistor in order to calculate the current power usage.
+This project consists of a current transformer connected to an Arduino via a burden resistor. The transformer is attached to one of the master live wires in my house and the Arduino senses the voltage on the resistor in order to calculate the current power usage.
 
 ## Parts list
 - ~~Arduino Pro Micro~~
 - ~~NRF24L01+PA+LNA (with RFAXIS chip)~~
 - ~~2 x 100 kΩ resistors~~
+- ~~3.3 V Regulator~~
+- ~~3 x 10 μF capacitors (ceramic, more durable)~~
 - SCT-013-000V
-- 3.3 V Regulator
-- 3 x 10 μF capacitors (ceramic, more durable)
 - Female 3.5 mm audio jack
 - Female USB B port
 - Perf board
@@ -19,6 +19,7 @@ This project consists of a current transform connected to an Arduino via a burde
 - Test 102 resistor left of the LED on the Arduino (even tho that is the resistor for the LED so it doesn't matter. Test it just to check your soldering skills. Also test the traces to the LED using the [schematic](http://cdn.sparkfun.com/datasheets/Dev/Arduino/Boards/Pro_Micro_v13b.pdf)
 - Test for VCC voltage and J1 (left of USB connector). It should 5V and the jumper shorted.
 - Put grounded tin foil around NRF24 as suggested by SamyK (https://youtu.be/1NBNrgTEwq0?t=760)
+- Measure USB current consumption of final build
 
 ## Design
 
