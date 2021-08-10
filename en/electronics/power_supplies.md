@@ -11,4 +11,4 @@ This also applies to electronics labs, with oscilloscopes, signal generators and
 This concept is, however, not extensible to server racks. There, it's better to have separate power supplies for each server instead of having just a couple of big power supplies for all the rack's servers. <br>
 This is because of these reasons:
 - Better redundancy
-- More manageable (lower electrical complexity, lower risk, etc.)
+- More manageable (lower electrical complexity, lower risk (fire, etc.), etc.)
