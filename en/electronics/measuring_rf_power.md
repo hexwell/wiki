@@ -1,6 +1,6 @@
 # Measuring RF with an oscilloscope
 
-In order to measure RF signals with an oscilloscope and calculate their power it seems like they need to be terminated in a known impedance termination.
+In order to measure RF signals with an oscilloscope and calculate their power they need to be terminated in a known impedance termination.
 - For low power signals (below the peak to peak voltage rating of the oscilloscope and the termination) it should be enough to use a BNC T splitter with the inputs connected to the termination, the scope and the DUT (device under test)
 - For high power signals (exceeding the oscilloscope or termination rating) it is mandatory to use a sampler between the oscilloscope and the splitter an appropriate power rating termination, otherwise the oscilloscope and the termination can get damaged.
 
