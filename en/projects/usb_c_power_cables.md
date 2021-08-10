@@ -41,4 +41,5 @@ These devices just need to be modified to be able to have their power supplied b
 
 #### DC input
 
-These devices might benefit from a direct DC input as they are more likely to be used in raw environments like labs, camps or vehicles where direct DC power mmight be available.
+These devices might benefit from a direct DC input as they are more likely to be used in raw environments like labs, camps or vehicles where direct DC power might be available.
+https://github.com/hexwell/wiki/blob/master/en/electronics/dc_inputs.md
