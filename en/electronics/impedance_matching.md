@@ -7,7 +7,7 @@ A very nice physical demonstration of impedance mismatch/matching and reflected 
 
 ## Mechanical analogy
 
-It's also nice to see that in the video impedance is matched using a lever, and the [Electrical-Mechanical analogy](https://en.wikipedia.org/wiki/Mechanical%E2%80%93electrical_analogies) depict a **transformer**, that is often used to match impedance, as the equivalent of the **lever**.
+It's also nice to see that in the video impedance is matched using a lever, and the [Electrical-Mechanical analogy](https://en.wikipedia.org/wiki/Mechanical%E2%80%93electrical_analogies) depicts a **transformer**, that is often used to match impedance, as the equivalent of the **lever**.
 
 ## Also see
 
