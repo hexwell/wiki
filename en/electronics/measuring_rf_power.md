@@ -18,4 +18,4 @@ Since we are measuring a power quantity we use the ten-log-ten formula ([Wikiped
 
 ## Note for Siglent SDS1000X-E
 
-This scope's FFT function has built in power measurements. It works with the above formula and thus it require user input for the external impedance (through the "Vertical" menu)
+This scope's FFT function has built in power measurements. It works with the above formula and thus it requires user input for the external impedance (through the "Vertical" menu)
