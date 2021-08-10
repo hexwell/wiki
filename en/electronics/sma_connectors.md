@@ -2,11 +2,12 @@
 
 ## Fastening
 
-SMA connectors should be fastened from the hex nut and never turned to prevent wear and damage.
+SMA connectors should be fastened from the hex nut and never turned (so as to have the center pin turn inside/around the mating connector) to prevent wear and damage.
+They should also be fastened with a torque wrench.
 
 ## Cleaning
 
-SMA connectors should not be touched with bare hands, especially the threaded part.
+SMA connectors should not be touched with bare hands, especially the threaded part or the center pin.
 This is because the fat layer on the hand changes the RF characteristics of the connector.
 This matters the most in measurement where precision is required.
 
@@ -19,6 +20,6 @@ The internal part with the teflon isolation can be cleaned as well with paper to
 
 ## Instruments connectors
 
-If an instrument is valuable and has SMA connectors, it might be worth having adapters on it's connectors.
+If an instrument is valuable and has SMA connectors, it might be worth having adapters on its connectors.
 This reduces the connection cycles and wear on the instruments connectors and transfers this to a much
 cheaper and replaceable adapter.
