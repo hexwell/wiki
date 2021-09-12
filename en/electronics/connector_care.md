@@ -38,3 +38,4 @@ https://rfmw.em.keysight.com//DigitalPhotonics/flexdca/UG/Content/Topics/Connect
 https://edadocs.software.keysight.com/kkbopen/rf-connector-cleaning-methods-amp-supplies-589737773.html
 https://na.support.keysight.com/vna/help/latest/Tutorials/Connector_Care.htm
 https://na.support.keysight.com/pna/help/latest/Tutorials/Connector_Care.htm
+http://www.sm5bsz.com/lir/loss/1296/cleaning/propanol.htm
