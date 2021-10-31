@@ -73,6 +73,8 @@ Very similar to EPSON WF-2830DWF, except it has a bigger screen and a slightly l
 - kinda cheap cartridges
 
 ### EPSON XP-2100
+Note: all these other EPSON printers: XP-3150, XP-4100, XP-4150, WF-2810 are very similar to this one.
+
 #### pros:
 - linux driver
 - kinda cheap cartridges
