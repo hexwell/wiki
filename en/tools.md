@@ -85,6 +85,7 @@ Hacking
     -   **pwntools** - python reverse engineering lib
     -   **Radare2** - reverse engineering suite
     -   **Angr** - binary analysis
+    -   **Burp Suite** - network analysis
 
 2.  NFC/RFID
 
@@ -114,3 +115,13 @@ Hacking
 
 - HDDLLF - Windows disk formatter
 - CgSecurity TestDisk - Disk testing and data recovery
+- Teracopy - Windows file copier
+- CrystalDiskMark - benchmarking
+
+## Terminal tools
+
+- tmux - terminal multiplexer
+
+### Windows:
+- PuTTY
+- Teraterm
