@@ -86,6 +86,7 @@ Hacking
     -   **Radare2** - reverse engineering suite
     -   **Angr** - binary analysis
     -   **Burp Suite** - network analysis
+    -   **Frida** - Android instrumentation
 
 2.  NFC/RFID
 
