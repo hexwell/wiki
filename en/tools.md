@@ -115,7 +115,7 @@ Hacking
 
 - HDDLLF - Windows disk formatter
 - CgSecurity TestDisk - Disk testing and data recovery
-- Teracopy - Windows file copier
+- TeraCopy - Windows file copier
 - CrystalDiskMark - benchmarking
 
 ## Terminal tools
@@ -124,4 +124,4 @@ Hacking
 
 ### Windows:
 - PuTTY
-- Teraterm
+- Tera Term
