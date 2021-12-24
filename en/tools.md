@@ -87,6 +87,7 @@ Hacking
     -   **Angr** - binary analysis
     -   **Burp Suite** - network analysis
     -   **Frida** - Android instrumentation
+    -   **IDA** - disassembler
 
 2.  NFC/RFID
 
