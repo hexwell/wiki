@@ -60,24 +60,21 @@ Niche:
 -   **Coq** (functional, dependent types, calculus of constructions)
 -   **APL** (array programming paradigm, extremely concise)
 
-Hacking
--------
+## Hacking
 
 ### Software
 
--   [**dnsdumpster**](https://dnsdumpster.com/) - dns recon
+- [**dnsdumpster**](https://dnsdumpster.com/) - dns recon
 
--   [**Domaintools WHOIS**](http://whois.domaintools.com/) - WHOIS
+- [**Domaintools WHOIS**](http://whois.domaintools.com/) - WHOIS
 
--   [**port
-    scanner**](https://pentest-tools.com/network-vulnerability-scanning/tcp-port-scanner-online-nmap) -
-    port scanning
+- [**port scanner**](https://pentest-tools.com/network-vulnerability-scanning/tcp-port-scanner-online-nmap) - port scanning
 
--   [**IP stresser**](https://www.ipstresser.com/) - DDoS
+- [**IP stresser**](https://www.ipstresser.com/) - DDoS
 
 - [**VirusTotal**](www.virustotal.com) - virus scanner
 
--   **mimikatz** - Windows exploitation
+- **mimikatz** - Windows exploitation
 
 1.  Reversing
 
@@ -102,15 +99,15 @@ Hacking
 
 1.  NFC/RFID
 
-    -   **Scribe** - NFC development board
-    -   **ACR122U** - NFC USB interface
-    -   **pn532** - NFC UART interface
-    -   **Proxmark3** - NFC swiss knife
-    -   **ChameleonMini** - NFC emulator
+ - **Scribe** - NFC development board
+ - **ACR122U** - NFC USB interface
+ - **pn532** - NFC UART interface
+ - **Proxmark3** - NFC swiss knife
+ - **ChameleonMini** - NFC emulator
 
     <br>
     
--   **rtl-sdr** - 27 MHz - 1800 MHz receiver
+- **rtl-sdr** - 27 MHz - 1800 MHz receiver
 
 
 ## Disks and Data recovery
@@ -123,6 +120,7 @@ Hacking
 ## Terminal tools
 
 - tmux - terminal multiplexer
+- ttyplot - graphing
 
 ### Windows:
 - PuTTY
