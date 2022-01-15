@@ -48,16 +48,16 @@ Marketable:
 
 Niche:
 
--   **Clojure** (lisp dialect, JVM)
--   **Lisp** (functional, simple, old, emacs)
--   **OCaml** (old, Haskell-like?)
--   **Smalltalk** (nice take on OOP)
 -   **Elixir** (modern Erlang extension)
--   **Erlang** (functional, telecommunications)
--   **Ada** (old, concurrency)
 -   **Agda** (dependent types?, proof assistant)
 -   **Idris** (functional, proof assistant)
 -   **Coq** (functional, dependent types, calculus of constructions)
+-   **OCaml** (old, Haskell-like?)
+-   **Erlang** (functional, telecommunications)
+-   **Clojure** (lisp dialect, JVM)
+-   **Lisp** (functional, simple, old, emacs)
+-   **Smalltalk** (nice take on OOP)
+-   **Ada** (old, concurrency)
 -   **APL** (array programming paradigm, extremely concise)
 
 ## Hacking
