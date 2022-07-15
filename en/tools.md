@@ -1,6 +1,6 @@
 # Tools
 
-## Editors & IDEs
+## Text Editors & IDEs
 
 Text editor: **Sublime Text 3**
 
@@ -125,3 +125,11 @@ Niche:
 ### Windows:
 - PuTTY
 - Tera Term
+
+
+## Utils
+
+### Calculators
+
+- [**Qalculate!**](https://qalculate.github.io/)
+- [**SageMath**](https://www.sagemath.org/)
