@@ -10,7 +10,7 @@ JVM: **JetBrains IntelliJ IDEA**
 
 Android: **JetBrains/Google Android Studio**
 
-## Languages
+## Programming Languages
 
 Languages in these section are sorted by marketability for marketable
 languages and by my willingness to learn them in the close future for
@@ -117,14 +117,17 @@ Niche:
 - TeraCopy - Windows file copier
 - CrystalDiskMark - benchmarking
 
+
 ## Terminal tools
 
 - tmux - terminal multiplexer
 - ttyplot - graphing
+- pv - pipe viewer
 
 ### Windows:
 - PuTTY
 - Tera Term
+- com0com
 
 
 ## Utils
@@ -133,3 +136,8 @@ Niche:
 
 - [**Qalculate!**](https://qalculate.github.io/)
 - [**SageMath**](https://www.sagemath.org/)
+
+
+## Linux
+
+peazip - 7Zip GUI
