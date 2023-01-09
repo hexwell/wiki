@@ -123,6 +123,7 @@ Niche:
 - tmux - terminal multiplexer
 - ttyplot - graphing
 - pv - pipe viewer
+- progress - view progress of coreutils commands
 
 ### Windows:
 - PuTTY
@@ -141,3 +142,5 @@ Niche:
 ## Linux
 
 peazip - 7Zip GUI
+xournalpp - Annotate PDFs
+pdfmixtool - Merge, split, rotate PDFs
