@@ -123,7 +123,7 @@ Niche:
 - tmux - terminal multiplexer
 - ttyplot - graphing
 - pv - pipe viewer
-- progress - view progress of coreutils commands
+- progress - view progress of coreutils commands (cp, mv, etc.)
 
 ### Windows:
 - PuTTY
