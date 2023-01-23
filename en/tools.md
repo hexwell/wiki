@@ -122,12 +122,15 @@ Niche:
 
 ## Terminal tools
 
+### Linux
+
 - tmux - terminal multiplexer
 - ttyplot - graphing
 - pv - pipe viewer
 - progress - view progress of coreutils commands (cp, mv, etc.)
 - picocom - serial port terminal
 - bat - better cat, with line numbers and syntax highlighting
+- highlight - syntax highlighting (inferior to bat)
 - gotop - better htop
 - cal - calendar
 
@@ -150,3 +153,5 @@ Niche:
 peazip - 7Zip GUI
 xournalpp - Annotate PDFs
 pdfmixtool - Merge, split, rotate PDFs
+gthumb - Image editor
+kdenlive - Video editor
