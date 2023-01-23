@@ -6,7 +6,9 @@ Text editor: **Sublime Text 3**
 
 Terminal text editor: **micro**
 
-Python: **JetBrains PyCharm** / **Sublime Text 3**
+Python: **JetBrains PyCharm** / **Sublime Text 3** / **bpython**
+
+Haskell: **hoogle**
 
 JVM: **JetBrains IntelliJ IDEA**
 
