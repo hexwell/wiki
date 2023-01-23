@@ -4,6 +4,8 @@
 
 Text editor: **Sublime Text 3**
 
+Terminal text editor: **micro**
+
 Python: **JetBrains PyCharm** / **Sublime Text 3**
 
 JVM: **JetBrains IntelliJ IDEA**
@@ -124,11 +126,15 @@ Niche:
 - ttyplot - graphing
 - pv - pipe viewer
 - progress - view progress of coreutils commands (cp, mv, etc.)
+- picocom - serial port terminal
+- bat - better cat, with line numbers and syntax highlighting
+- gotop - better htop
+- cal - calendar
 
 ### Windows:
-- PuTTY
-- Tera Term
-- com0com
+- PuTTY - terminal emulator
+- Tera Term - terminal emulator
+- com0com - serial port loopback
 
 
 ## Utils
