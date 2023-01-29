@@ -126,17 +126,17 @@ Niche:
 
 ### Linux
 
-- alsamixer - mixer
-- bat - better cat, with line numbers and syntax highlighting
+- alsamixer - TUI mixer
+- bat - better TUI cat, with line numbers and syntax highlighting
 - cal - calendar
-- gotop - better htop
+- gotop - better TUI htop
 - highlight - syntax highlighting (inferior to bat)
-- micro - text editor
+- micro - TUI text editor
 - pass - password manager
 - picocom - serial port terminal
 - progress - view progress of coreutils commands (cp, mv, etc.)
 - pv - pipe viewer
-- tickrs - stocks
+- tickrs - TUI stocks
 - tmux - terminal multiplexer
 - ttyplot - graphing
 
@@ -157,10 +157,10 @@ Niche:
 
 ## Linux
 
-gthumb - Image editor
-freerdp - RDP client
-kdenlive - Video editor
-pdfmixtool - Merge, split, rotate PDFs
-peazip - 7Zip GUI
-tigervnc - VNC client
-xournalpp - Annotate PDFs
+- gthumb - Image editor
+- freerdp - RDP client
+- kdenlive - Video editor
+- pdfmixtool - Merge, split, rotate PDFs
+- peazip - 7Zip GUI
+- tigervnc - VNC client
+- xournalpp - Annotate PDFs
