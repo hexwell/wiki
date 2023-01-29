@@ -160,6 +160,7 @@ Niche:
 - gthumb - Image editor
 - freerdp - RDP client
 - kdenlive - Video editor
+- keepassxc - Keepass password manager GUI
 - pdfmixtool - Merge, split, rotate PDFs
 - peazip - 7Zip GUI
 - tigervnc - VNC client
