@@ -126,34 +126,41 @@ Niche:
 
 ### Linux
 
+- alsamixer - mixer
+- bat - better cat, with line numbers and syntax highlighting
+- cal - calendar
+- gotop - better htop
+- highlight - syntax highlighting (inferior to bat)
+- micro - text editor
+- pass - password manager
+- picocom - serial port terminal
+- progress - view progress of coreutils commands (cp, mv, etc.)
+- pv - pipe viewer
+- tickrs - stocks
 - tmux - terminal multiplexer
 - ttyplot - graphing
-- pv - pipe viewer
-- progress - view progress of coreutils commands (cp, mv, etc.)
-- picocom - serial port terminal
-- bat - better cat, with line numbers and syntax highlighting
-- highlight - syntax highlighting (inferior to bat)
-- gotop - better htop
-- cal - calendar
 
-### Windows:
+### Windows
+
+- com0com - serial port loopback
 - PuTTY - terminal emulator
 - Tera Term - terminal emulator
-- com0com - serial port loopback
 
 
 ## Utils
 
 ### Calculators
 
-- [**Qalculate!**](https://qalculate.github.io/)
 - [**SageMath**](https://www.sagemath.org/)
+- [**Qalculate!**](https://qalculate.github.io/)
 
 
 ## Linux
 
-peazip - 7Zip GUI
-xournalpp - Annotate PDFs
-pdfmixtool - Merge, split, rotate PDFs
 gthumb - Image editor
+freerdp - RDP client
 kdenlive - Video editor
+pdfmixtool - Merge, split, rotate PDFs
+peazip - 7Zip GUI
+tigervnc - VNC client
+xournalpp - Annotate PDFs
